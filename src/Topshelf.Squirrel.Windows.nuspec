@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Topshelf.Squirrel.Windows</id>
+        <version>1.0.0</version>
+        <authors>Kibnet</authors>
+		<owners>$(Authors)</owners>
+        <description>AutoSelf-Update Windows Service</description>
+		<iconUrl>https://sdlblobstorage.azureedge.net/public/images/sdl-logo.ico</iconUrl>
+    </metadata>
+</package>
